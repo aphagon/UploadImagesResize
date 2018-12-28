@@ -6,7 +6,7 @@
  * Resize Images
  */
 
-class UploadImages {
+class UploadImagesResize {
 
     /**
      * @var string The new image name.
