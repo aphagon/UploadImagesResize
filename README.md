@@ -1,2 +1,2 @@
-# UploadImages
-Eaay Library UploadImages
+# UploadImagesResize
+Eaay Library UploadImagesResize
