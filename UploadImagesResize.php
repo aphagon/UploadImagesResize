@@ -83,7 +83,6 @@ class UploadImagesResize {
         } else {
             $this->_files = $files;
         }
-        return $this->_files;
         $this->alertMessage[ 'success' ] = array( );
         $this->alertMessage[ 'errors' ]  = array( );
     }
